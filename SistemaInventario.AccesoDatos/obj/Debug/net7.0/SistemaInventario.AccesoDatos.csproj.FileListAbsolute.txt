@@ -1,0 +1,17 @@
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.deps.json
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.dll
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.CopyComplete
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.dll
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventario.AccesoDatos.dll
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
+E:\Estudio\Aprendiendo\ASP .NET\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventario.AccesoDatos.dll
