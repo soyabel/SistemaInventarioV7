@@ -9,6 +9,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
     public interface IUnidadTrabajo : IDisposable //Te permite desacerte de cualquier recurso que obteniste del sistema y asi liberarlo
     {
         IBodegaRepositorio Bodega { get; }
+        ICategoriaRepositorio Categoria { get; }
         Task Guardar();
     }
 }
